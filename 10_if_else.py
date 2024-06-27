@@ -45,3 +45,10 @@ if x > 10:
         print("but not above 20.")
 else :
     print("Not above ten.")
+
+# Pass Statement
+a = 11
+b = 23
+
+if b > a:
+    pass
